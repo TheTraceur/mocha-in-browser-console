@@ -10,7 +10,7 @@ npm install -g mocha-in-browser-console
 ## Usage
 
 ```html
-<script src="https://raw.githubusercontent.com/TheTraceur/mocha-in-browser-console/master/mocha-in-browser-console.min.js"></script>
+<script src="https://cdn.rawgit.com/TheTraceur/mocha-in-browser-console/master/mocha-in-browser-console.min.js"></script>
 ```
 
 ```js
@@ -41,8 +41,6 @@ var test = function(){
 	mocha.run();
 
 };
-
-test();
 
 test(); // can test at any time
 ```
