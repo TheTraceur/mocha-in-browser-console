@@ -45,4 +45,4 @@ var test = function(){
 test(); // can test at any time
 ```
 
-![alt tag](http://cdn.pspu.pl/mocha/mocha_test.jpg)
+![alt tag](http://cdn.pspu.pl/mocha/mocha_test_4.png)
