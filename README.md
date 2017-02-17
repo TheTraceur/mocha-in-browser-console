@@ -1,3 +1,5 @@
+[![npm version](https://badge.fury.io/js/mocha-in-browser-console.svg)](https://www.npmjs.com/package/mocha-in-browser-console)
+[![GitHub version](https://badge.fury.io/gh/TheTraceur%2Fmocha-in-browser-console.svg)](https://github.com/TheTraceur/mocha-in-browser-console)
 
 © by [**traceur**](https://www.npmjs.com/~traceur)
 
@@ -10,7 +12,7 @@ npm install mocha-in-browser-console
 ## Usage
 
 ```html
-<script src="./mocha-in-browser-console.min.js"></script>
+<script src="node_modules/mocha-in-browser-console/mocha-in-browser-console.min.js"></script>
 ```
 
 ```js
