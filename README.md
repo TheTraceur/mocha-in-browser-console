@@ -4,13 +4,13 @@
 ## Installation
 
 ```bash
-npm install -g mocha-in-browser-console
+npm install mocha-in-browser-console
 ```
 
 ## Usage
 
 ```html
-<script src="https://cdn.rawgit.com/TheTraceur/mocha-in-browser-console/master/mocha-in-browser-console.min.js"></script>
+<script src="./mocha-in-browser-console.min.js"></script>
 ```
 
 ```js
