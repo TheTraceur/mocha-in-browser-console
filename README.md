@@ -16,7 +16,7 @@ npm install mocha-in-browser-console
 ```js
 var test = function(){
 	
-	var mocha = new Mocha();
+	var mocha = new Mocha(); // initial setup - before writing tests
 	
 	describe("my test suite",function(){
 		
