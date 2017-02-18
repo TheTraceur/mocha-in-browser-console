@@ -2,6 +2,8 @@
 
 [![GitHub version](https://badge.fury.io/gh/TheTraceur%2Fmocha-in-browser-console.svg)](https://github.com/TheTraceur/mocha-in-browser-console)
 
+![Awesome](http://cdn.pspu.pl/badges/awesome.svg)
+
 © by [**traceur**](https://www.npmjs.com/~traceur)
 
 ## Installation
