@@ -1,8 +1,6 @@
-[![npm version](https://badge.fury.io/js/mocha-in-browser-console.svg)](https://www.npmjs.com/package/mocha-in-browser-console)
+[![npm version](https://badge.fury.io/js/mocha-in-browser-console.svg)](https://www.npmjs.com/package/mocha-in-browser-console) <-- npm
 
-[![GitHub version](https://badge.fury.io/gh/TheTraceur%2Fmocha-in-browser-console.svg)](https://github.com/TheTraceur/mocha-in-browser-console)
-
-![Awesome](http://cdn.pspu.pl/badges/awesome.svg)
+[![GitHub version](https://badge.fury.io/gh/TheTraceur%2Fmocha-in-browser-console.svg)](https://github.com/TheTraceur/mocha-in-browser-console) <-- GitHub
 
 © by [**traceur**](https://www.npmjs.com/~traceur)
 
