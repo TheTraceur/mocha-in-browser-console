@@ -1,6 +1,6 @@
 {
   "name": "mocha-in-browser-console",
-  "version": "1.0.22",
+  "version": "1.0.22", 
   "description": "Wrapper around Mocha testing suite that runs in browser console. Includes chai's assert for easy testing.",
   "main": "mocha-in-browser-console.min.js",
   "scripts": {
